@@ -1,0 +1,23 @@
+.App {
+    height: 100vh;
+    display: grid;
+    place-items: center;
+    place-content: center;
+
+    background: #F7F4F0;
+}
+
+.content {
+    width: fit-content;
+    text-align: center;
+}
+
+button {
+    padding: 15px 40px;
+    margin: 5px;
+    border: none;
+
+    background: #9AB39F;
+    cursor: pointer;
+    font-weight: bold;
+}
